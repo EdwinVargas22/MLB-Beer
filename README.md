@@ -10,6 +10,7 @@ The first thing I had to do was to connect to my Microsoft SQL Server Management
 
 
 Before Cleaning
+
 ![Before Cleaning](https://user-images.githubusercontent.com/60836219/154824711-d7ab7289-d194-4eeb-b9c5-32a0f9f31270.PNG)
 
 After Cleaning
