@@ -10,7 +10,6 @@ The first thing I had to do was to connect to my Microsoft SQL Server Management
 
 ### Analysis
 
-![Beer Price 2013](https://user-images.githubusercontent.com/60836219/154824396-7723e7f9-c6ea-4abd-9b74-1cc0c0d13d4b.png)
 ![Beer Price 2018](https://user-images.githubusercontent.com/60836219/154824399-5ea3d7b2-d1ec-46c3-aa57-b56484005a08.png)
 
 
