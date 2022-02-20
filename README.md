@@ -20,21 +20,12 @@ After Cleaning
 
 ![Beer Price 2018](https://user-images.githubusercontent.com/60836219/154824399-5ea3d7b2-d1ec-46c3-aa57-b56484005a08.png)
 
-The intersting findings I found is that only in year 2014 and 2015, Miami Marlins were the baseball team with the most expensive beer, but in the other years different teams had the most expensive beer price. The Arizona Diamondbacks were the baseball team with the least expensive beer in 2013, 2014, and 2015. The Colorado Rockies were the baseball team with the least expensive beer in 2016 and 2018. This is very interesting because it seems it is more common for the same baseball team to have the least expensive beer consecutively compared to the most expensive beer consecutively.
-
-
-
+The intersting findings I found is that only in year 2014 and 2015, Miami Marlins were the baseball team with the most expensive beer, but in the other years different teams had the most expensive beer. The Arizona Diamondbacks were the baseball team with the least expensive beer in 2013, 2014, and 2015. The Colorado Rockies were the baseball team with the least expensive beer in 2016 and 2018. This is very interesting because it seems it is more common for the same baseball team to have the least expensive beer consecutively compared to the most expensive beer consecutively.
 
 
 ![Beer Price per Ounce 2018](https://user-images.githubusercontent.com/60836219/154824414-ec6532e7-7169-4b22-80f3-69be8523e8a2.png)
 
-
-
-
-
-
-
-
+The Boston Red Sox were the baseball team with the most expensive beer price per ounce consecutively in 2013, 2014, 2015, 2016, and 2018. This is interesting because they didn't have the most expensive beer price for each of the years. The Los Angeles Angels had the least expensive beer price per ounce consecutively in 2013, 2014, and 2015 while the Colorado Rockies had the least expensive beer price per ounce in 2016 and 2018.
 
 ### Conclusion
 
